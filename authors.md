@@ -2,5 +2,5 @@
 
 - Albulescu Flavius
 - Muscalu Andreea
-- Autor3
+- Cimpean Virgil
 - Autor4
