@@ -1,6 +1,6 @@
 ### Contribuitori
 
 - Albulescu Flavius
-- Autor2
+- Muscalu Andreea
 - Autor3
 - Autor4
