@@ -1,2 +1,2 @@
-# MarvelMovies
-heroes and movies (Marvel)
+# PowersWorld
+The future of cinematic world
