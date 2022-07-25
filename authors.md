@@ -1,3 +1,6 @@
 ### Contribuitori
--Autor1
--Autor2
+
+- Albulescu Flavius
+- Autor2
+- Autor3
+- Autor4
