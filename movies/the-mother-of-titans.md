@@ -11,5 +11,5 @@ Once they were dethroned, they were sent to Earth and Gaia, their mother, was fo
 
 ## Characters
 
-- [hero]()
+- [goddess-Gaia](../heroes/goddess-Gaia.md)
 - [villain]()
