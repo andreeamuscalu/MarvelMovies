@@ -4,7 +4,7 @@
  The four fundamental natural elements(water,fire,earth,wind) are in hisarms and he is able to control them in different ways. 
  These blessings are evolving durind the confrontations in time.
 
-![hero picture](./../images/nature boy.jpg)
+![hero picture](./../images/nature-boy.jpg)
 
 ## Powers and weaknesses
 
