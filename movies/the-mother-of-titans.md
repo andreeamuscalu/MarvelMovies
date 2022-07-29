@@ -1,6 +1,6 @@
 # The mother of Titans
 
-![poster aici]()
+![poster](../images/the-mother-of-titans.jpg)
 
 The land is now riddled with terror, dominated by hordes of titans thirsting for revenge against the gods, led by the great Cronus.
 
