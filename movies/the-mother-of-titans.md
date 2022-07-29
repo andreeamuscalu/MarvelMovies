@@ -11,5 +11,5 @@ Once they were dethroned, they were sent to Earth and Gaia, their mother, was fo
 
 ## Characters
 
-- [goddess-Gaia](../heroes/goddess-Gaia.md)
-- [villain]()
+- [Goddess-Gaia](../heroes/goddess-Gaia.md)
+- [Titan-Conus](../villains/titan-Cronus.md)
