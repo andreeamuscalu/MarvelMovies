@@ -2,7 +2,7 @@
 
 One of the many children of Gaia and Uranus, the first Titan, the leader of the first generation of Titans.
 
-![picture here]()
+![titan-Cronus](../images/titan-Cronus.jpeg)
 
 ## Powers and weaknesses
 
