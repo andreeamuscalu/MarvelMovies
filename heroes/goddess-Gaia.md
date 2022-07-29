@@ -2,7 +2,7 @@
 
 The great mother of all creation, the goddess of the earth and one of the Greek primordial gods.
 
-![picture here]()
+![picture here](../images/goddess-Gaia.jpeg)
 
 ## Powers and weaknesses
 
