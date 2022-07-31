@@ -9,3 +9,10 @@ After the assistant remarks the children, total chaos enssues so that, following
 the assistant and the children are getting super power, but doctor. All the time, the doctor has not being found the x element for
 having the much desired powers. The only aim of the doctor is to kill the kids wih the aid of his assisnat and finally him.
 So, the village where the kids live is in danger. From now Jack will be Chop Boy and George Nature boy.
+
+## Characters
+
+- [Chop-Boy](./../heroes/chop-boy.md)
+- [Nature Boy](./../heroes/nature-boy.md)
+- [Dr. J. Krack](./../villains/dr-J-Krack.md)
+- [The assistant](./../villains/the-assistant.md)
