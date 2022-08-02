@@ -1,4 +1,4 @@
-#The Lightning Queen
+# The Lightning Queen
 
 ![picture](../images/the-lightning-queen.jpg)
 
