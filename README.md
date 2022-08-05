@@ -2,11 +2,11 @@
 The future of cinematic world
 
 # Movies
-- [Revenge](../PowersWorld/movies/revenge.md)
-- [Teens magic island](../PowersWorld/movies/teens-magic-island.md)
-- [The battle of time](../PowersWorld/movies/the-battle-of-time.md)
-- [The forest with soup](../PowersWorld/movies/the-forest-with-soup.md)
-- [The mother of titans](../PowersWorld/movies/the-mother-of-titans.md)
+- [Revenge](./movies/revenge.md)
+- [Teens magic island](./movies/teens-magic-island.md)
+- [The battle of time](./movies/the-battle-of-time.md)
+- [The forest with soup](./movies/the-forest-with-soup.md)
+- [The mother of titans](./movies/the-mother-of-titans.md)
 
 # The heroes
 
