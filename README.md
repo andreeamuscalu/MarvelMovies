@@ -8,4 +8,4 @@ The future of cinematic world
 # The villains
 
 # Authors
-- [Contributors](../PowersWorld/authors.md)
+- [Contributors](./authors.md)
