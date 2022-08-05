@@ -1,5 +1,7 @@
 # PowersWorld
 The future of cinematic world
+During this imaging world, you will be finding out the most chatching and unusual characters whose common purpose is to mantain peace abd harmony.
+The diversification of magical or even psychic arms as supernatural powers will lead you into the future world above human nature. The sories are excinting because of the mystery behind them that you'll dicover along the PowersWorld. Each film has a hidden lesson which lends itself to our social pattern. If your curiosity has been aroused, I invite you to access the links below and see the real magic.
 
 # Movies
 - [Revenge](./movies/revenge.md)
