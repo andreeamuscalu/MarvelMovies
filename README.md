@@ -15,8 +15,8 @@ The future of cinematic world
 - [Photosynthia](./villains/Photosynthia.md)
 - [Dr. J-Krack](./villains/dr-J-Krack.md)
 - [Mushy Ciorbi](./villains/mushy-ciorbi.md)
-- [The assistant](./villains/the-assistant.md)
-- [The laws of nature](./villains/the-laws-of-nature.md)
+- [The Assistant](./villains/the-assistant.md)
+- [The Laws of Nature](./villains/the-laws-of-nature.md)
 - [Titan Cronus](./villains/titan-Cronus.md)
 
 # Authors
