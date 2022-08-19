@@ -1,6 +1,6 @@
 # The History Guy
 
-The history guy was a normal guy until he entered an okd Victorian cursed library. He opened an old dusty book that turned out to be cursed. Now he is immortal and can travel back in time, but never back to the future, so he has to wait for the passing of the time to get back to the present time. 
+The history guy was a normal guy until he entered an old Victorian cursed library. He opened an old dusty book that turned out to be cursed. Now he is immortal and can travel back in time, but never back to the future, so he has to wait for the passing of the time to get back to the present time. 
 
 ![villain picture](./../images/the-history-guy.png)
 
