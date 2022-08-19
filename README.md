@@ -18,7 +18,7 @@ The diversification of magical or even psychic arms as supernatural powers will 
 - [Nature Boy](./heroes/nature-boy.md)
 - [Supic la Plic](./heroes/supic-la-plic.md)
 - [The History Guy](./heroes/the-history-guy.md)
-- [The Lightning Guy](./heroes/the-lightning-queen.md)
+- [The Lightning Queen](./heroes/the-lightning-queen.md)
 
 # The villains
 - [Photosynthia](./villains/Photosynthia.md)
